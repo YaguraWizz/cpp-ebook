@@ -1,0 +1,6 @@
+# Ignore project directory
+project/
+build/
+test/test-*/rezult.txt
+
+
